@@ -1,6 +1,32 @@
-# Contextual Inquiry and Analysis
-## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+# Contextual Inquiry and Analysis of ZippyShare .com
+
+## Outline
+- [Contextual Inquiry and Analysis of ZippyShare .com](#contextual-inquiry-and-analysis-of-zippyshare-com)
+    - [Outline](#outline)
+    - [ZippyShare .com Description](#zippyshare-com-description)
+    - [Instruction Script](#instruction-script)
+    - [User Description](#user-description)
+    - [Transcript](#transcript)
+    - [Models and Annotations](#models-and-annotations)
+        - [Artifact Model](#artifact-model)
+        - [Flow Model](#flow-model)
+        - [Cultural Model](#cultural-model)
+    - [Do's and Don't's](#dos-and-donts)
+
+## ZippyShare .com Description
+
+![ZippyShare Front Page](img/ZippyShare.png)
+
+ZippyShare.com was incorporated in 2006, with the intention of providing a lightweight and user-fiendly file sharing solution.
+
+With it's maximum upload limit as 500 MB, it is certainly aimed at the more casual and leisure-oriented user. This certainly tallies with its reputation as a music-sharing platfrom, as tis figure means that any blue-ray disc shared via ZippyShare would need to be split into 50 parts - which isn't feasible!
+
+Many users of ZippyShare have complained about its automatic deleting of the files following 30 days of inactivity. This is certainly something that you wouldn't expect from the big names on the market, such as DropBox. However, this is actually rather common across the industry, certainly with the smaller file-sharing services.
+
+While it should also be noted that this is a very basic platform compared to others that are available, some users of ZippyShare have also complained about the levels of privacy available.
+
+ZippyShare has intention of providing user-friendly file sharing solution, but many users prefer to use other platforms to share files because the User Inferface (UI) of Zippyshare is unattractive and sometimes does not work or work but on certain pages.
+
 ## Instruction Script
 Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
 ## User Description
