@@ -27,22 +27,28 @@ While it should also be noted that this is a very basic platform compared to oth
 
 ZippyShare has intention of providing user-friendly file sharing solution, but many users prefer to use other platforms to share files because the User Inferface (UI) of Zippyshare is unattractive and sometimes does not work or work but on certain pages.
 
+
 ## Instruction Script
 
 On this section, it will countain spesific instruction given to user. Bellow is the following instruction
 
 1. Find out what ZippyUploader is and what is like.
-2. Find F.A.Q (Frequently Asked Question) of ZippyShare.
-3. Find Blog of ZippyShare and what it is.
+2. Find F.A.Q (Frequently Asked Question) of ZippyShare and take one question.
+3. Find Blog of ZippyShare.
 4. Try Changing the Language to Dutch.
 5. Try to Register into the ZippyShare from current page.
 6. Try Login to ZippyShare and figure out what's wrong.
-7. Try to Change your Account Profile Picture.
-8. Try to upload file with current account.
-9. Try to upload file with guest session.
+
 
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+
+- The user is a female student of Business Management Department ITS.
+- Her name is Vita.
+- She has experience using a computer as she was do a homework.
+- In her college assigment she used a website to login and do a homework or logout, but not too often.
+- She rarely using *file-sharing*, the only *file-sharing* she knows is Google Drive, and she absolutely doesnt know about Zippyshare.
+
+
 ## Transcript
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
 ## Models and Annotations
