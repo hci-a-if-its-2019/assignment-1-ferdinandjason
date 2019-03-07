@@ -12,6 +12,8 @@
         - [Flow Model](#flow-model)
         - [Cultural Model](#cultural-model)
     - [Do's and Don't's](#dos-and-donts)
+        - [Do's](#dos)
+        - [Don't's](#donts)
 
 ## ZippyShare Description
 
@@ -166,4 +168,15 @@ On this section, it will countain spesific instruction given to user. Bellow is 
 
 
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
+### Do's
+1. Login and Logout must be integrated with all pages.
+2. Use button instead of picture.
+3. Sign Up options in all pages.
+4. Redesigning Menu and sub-menu
+5. Make responsive
+
+### Don't's
+1. Field filled with red color, hard to read.
+2. Place unfunctional menu on menubar.
+
