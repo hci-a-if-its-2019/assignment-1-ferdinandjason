@@ -181,9 +181,9 @@ On this section, it will countain spesific instruction given to user. Bellow is 
 2. Place unfunctional menu on menubar.
 
 # Remarks
-> Overall, I think you've worked on this assignment pretty well.
-> However, I would like to remind you that it's necessary (even forbidden) to reveal participant's name. You need not expose the experimenter's (your) name on the transcript.
-> Thanks for making great models and (Do's and Don't's) analysis for this case.
+> * Overall, I think you've worked on this assignment pretty well.
+> * However, I would like to remind you that it's necessary (even forbidden) to reveal participant's name. You need not expose the experimenter's (your) name on the transcript.
+> * Thanks for making great models and (Do's and Don't's) analysis for this case.
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
