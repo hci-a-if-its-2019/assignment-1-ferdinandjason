@@ -187,5 +187,5 @@ On this section, it will countain spesific instruction given to user. Bellow is 
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
-| 2            | 5                | 5               | 87.5               | 88         | 87.6  |
+| 2            | 5                | 0               | 87.5               | 88         | 87.6  |
 
